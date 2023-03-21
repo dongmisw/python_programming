@@ -1,0 +1,35 @@
+1. feature1 branch에 feature2.txt 를 추가한다.
+2. add, commit한다.
+3. master branch로 넘어와서 feature2.txt가 없음을 확인한다.
+
+
+<esc>
+:wq!
+
+1. vs code 실행
+2. github 연동 
+3. giithub에 python_programming repository  클론
+4. c:\213\python_programming 
+5. vscode 작업영역에 폴더추가
+
+
+print(1+62-3*52)
+print(eval('1+62-3*52'))
+
+print(eval('33333%222')+eval('33333//222'))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
