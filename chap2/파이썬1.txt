@@ -19,6 +19,30 @@ print(eval('1+62-3*52'))
 print(eval('33333%222')+eval('33333//222'))
 
 
+1. 새로운 파일 추가함. readme.md 수정
+2. git add .
+3. git commit -m "readme 5시간 동안 수정"
+4. git push    => remote로 보내는 작업 . github.com
+5. 브라우저로 로그인하시오. yes
+6. 반영 완료. github.com에서 확인
+
+
+
+
+
+
+
+
+1. git init
+2.  hello.txt 파일을 추가함
+3. git status 
+=> 아직 add가 안됨
+4. git add .
+4.1  git config --global user.name "hong"
+4.3 git config --global user.emal "hong@dongyang.ac.kr"
+5. git commit -m "새 파일 추가"
+6. git branch
+=> master
 
 
 
