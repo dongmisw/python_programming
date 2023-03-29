@@ -1,0 +1,25 @@
+> git add origin https://github.com/dongmisw/python_programming.git
+>git remote -v
+origin 주소...
+>git clone https://github.com/dongmisw/python_programming.git
+>pwd
+c:/213/gittest
+
+VS코드로 가서 파일 >작업영역에 폴더추가> 
+c:\213\gittest>python programming 
+chap1>0329.py
+
+commit시에 error문구 나옴.
+git config --global user.email "dddddd"
+git config --global user.name "홍길동"
+
+github과 동기화 - push . github에 login하시오.
+
+
+
+
+
+
+
+
+
