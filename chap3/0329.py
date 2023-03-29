@@ -72,11 +72,44 @@ print("school[1:4] : ", school[1:4])#양미래
 print("school[2:4] : ", school[2:4]) #미래
 print("school[1:]  : ", school[1:])#양미래대
  
+
+print('동양미래대학교'[5:0:-1])
+print('동양미래대학교'[-1:-7:-1])
+
+
+print("hello \n world")
+print("hello \t world")
+print("hello\bworld")
+print("hello\vworld")
 '''
 
+str_a= "하하하"
+#str_b = "호호호"
+print(type(str_a))
+str_a.replace("하", "호")
+print(str_a.replace("하", "호"))
+str_a = str_a.replace("하", "호",2)
+print("str_a: ", str_a)
+#print("str_b: ", str_b)
+
+str_c = "안녕하세요. 파이썬 수업입니다. 파이썬.파이썬.파이썬.파이썬.파이썬.파이썬.파이썬.파이썬."
+print(str_c.replace("파이썬","자바", 5))
+
+'''
+#입력: 6자리 실수    222.788
+#출력: 실수의 각 자리의 합을 출력한다.  2+2+2+7+8+8  => ??
+#input(), int(), str.replace()
+'''
+num = input(" 실수를 입력하세요")   #212.222
+num = num.replace(".","")   # 213456 -> str
+print("sum : " ,int(num[0]) + int(num[1]) + int(num[2]) + int(num[3])+ int(num[4])+ int(num[5]))
 
 
 
+
+
+
+ 
 
 
 
