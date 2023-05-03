@@ -170,7 +170,7 @@ print(mysum2(100,1000))
 print((lambda num1, num2 : num1+num2)(100,1000))
 '''
 # map, filter
-list가 존재할떄, 
+list가 존재할때, 
 lst1= [1,2,3,4,5,6,7]
 addone()
 lst2 = [2,3,4,xxxx,]
