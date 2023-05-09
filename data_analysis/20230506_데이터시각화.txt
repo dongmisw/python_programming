@@ -1,0 +1,32 @@
+https://github.com/python-visualization/folium
+
+여기에서 clone 하고, example을 돌려본다.
+그리고, 맘에 드는 것을 찾아서 골라봄 
+
+
+
+대한민국 행정구역 경계 json 파일 변환 및 다운 받기 
+-  https://yeomss.tistory.com/267
+
+folium을 이용한 데이터 시각화
+- https://blog.naver.com/PostView.nhn?blogId=kcchang61&logNo=221350672356
+
+matplotlib 관련 그래프
+https://benn.tistory.com/33
+https://benn.tistory.com/36
+https://benn.tistory.com/39
+
+서울시 코로나 19 관련 데이터 분석
+https://marinadb.tistory.com/20
+
+서울시 행정구역 시군구 정보
+https://data.seoul.go.kr/dataList/OA-11677/S/1/datasetView.do
+ 
+
+https://marinadb.tistory.com/21?category=971372
+
+
+예제로 배우는 파이썬 프로그래밍
+http://pythonstudy.xyz/python/article/407-Matplotlib-%EC%B0%A8%ED%8A%B8-%ED%94%8C%EB%A1%AF-%EA%B7%B8%EB%A6%AC%EA%B8%B0
+http://pythonstudy.xyz/python/article/408-pandas-%EB%8D%B0%EC%9D%B4%ED%83%80-%EB%B6%84%EC%84%9D
+http://pythonstudy.xyz/python/article/408-pandas-%EB%8D%B0%EC%9D%B4%ED%83%80-%EB%B6%84%EC%84%9D
